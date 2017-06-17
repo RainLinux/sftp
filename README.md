@@ -32,7 +32,7 @@
 
  1. 依赖库：
  
-    [libssh2](./inlcude)
+    [libssh2](./libssh2)
 
  2. 接口
 
