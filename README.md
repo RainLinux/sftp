@@ -44,8 +44,8 @@
   
  1. docker file路径
   
-    [dockerfile](./docker)
+     [dockerfile](./docker)
      
  2. 制作命令
   
-    docker  build -t sftp-server .
+     docker  build -t sftp-server .
