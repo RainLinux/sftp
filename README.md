@@ -41,9 +41,11 @@
     [dba\\_sftp_client.c](./dba_sftp_client.c)
     
 ### 4. sftp server docker镜像制作方法
-  1. docker file路径
+  
+ 1. docker file路径
   
-     [dockerfile](./docker)
-  2. 制作命令
+    [dockerfile](./docker)
+     
+ 2. 制作命令
   
-     docker  build -t sftp-server .
+    docker  build -t sftp-server .
